@@ -12,10 +12,10 @@ yii-newrelic is a wrapper around the New Relic PHP API.  Automatic tracking of m
 * PHP 5.2+
 * New Relic for PHP [https://newrelic.com/docs/php/new-relic-for-php]
 * One of the following OS's:
-** Linux 2.6+, glibc 2.5+ with NPTL support
-** OpenSolaris 10
-** FreeBSD 7.3+
-** MacOS/X 10.5+
+ * Linux 2.6+, glibc 2.5+ with NPTL support
+ * OpenSolaris 10
+ * FreeBSD 7.3+
+ * MacOS/X 10.5+
 * Apache 2.2 or 2.4 via mod_php
 * Intel CPU
 
