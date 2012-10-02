@@ -112,3 +112,8 @@ add a line before that class declaration that says:
 * Console apps currently only set the class name to YiiNewRelic::nameTransaction().  
   A future release will attempt to include the action as well.
 * Your contributions, as always, are greatly appreciated.
+
+License
+---------
+Modified BSD License
+[https://github.com/gtcode/historical-db](https://github.com/gtcode/yii-newrelic)
