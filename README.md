@@ -116,4 +116,4 @@ add a line before that class declaration that says:
 License
 ---------
 Modified BSD License
-[https://github.com/gtcode/historical-db](https://github.com/gtcode/yii-newrelic)
+[https://github.com/gtcode/yii-newrelic](https://github.com/gtcode/yii-newrelic)
