@@ -1,7 +1,7 @@
 yii-newrelic
 ============
 
-Yii wrapper around the New Relic PHP API.
+Yii wrapper around the [New Relic](https://newrelic.com/) [PHP API](https://newrelic.com/docs/php/the-php-api).
 
 Introduction
 ---------
@@ -10,7 +10,7 @@ yii-newrelic is a wrapper around the New Relic PHP API.  Automatic tracking of m
 ###Requirements
 
 * PHP 5.2+
-* New Relic for PHP [https://newrelic.com/docs/php/new-relic-for-php]
+* [New Relic for PHP](https://newrelic.com/docs/php/new-relic-for-php)
 * One of the following OS's:
  * Linux 2.6+, glibc 2.5+ with NPTL support
  * OpenSolaris 10
