@@ -47,7 +47,7 @@
  *
  *   - If you are using a script that subclasses CClientScript, instead of
  *     adding 'clientScript' to your 'components', you will instead need to
- *     orphan that extension's script and extend it from YiiNewClientScript
+ *     orphan that extension's script and extend it from YiiNewRelicClientScript
  *     instead.  To do so, change 'extends CClientScript' to
  *     'extends YiiNewRelicClientScript', and then add a line before that class
  *     declaration that says:

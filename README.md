@@ -37,7 +37,7 @@ yii-newrelic is a wrapper around the New Relic PHP API.  Automatic tracking of m
 
 4) If you are using a script that subclasses <code>CClientScript</code>, instead of adding
 'clientScript' to your 'components', you will instead need to orphan that
-extension's script and extend it from <code>YiiNewClientScript</code> instead.  To do so,
+extension's script and extend it from <code>YiiNewRelicClientScript</code> instead.  To do so,
 change <code>extends CClientScript</code> to <code>extends YiiNewRelicClientScript</code>, and then
 add a line before that class declaration that says:
 ```
